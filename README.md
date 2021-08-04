@@ -8,9 +8,12 @@ Apache License, Version 2.0.
 - https://github.com/cfboom/cfboom-lang
 
 # INSTRUCTIONS
-Just drop into your **modules** folder or use CommandBox to install
+Ensure CF Boom Base is installed first.
 
-`box install cfboom-lang`
+```js
+box install cfboom-base // If needed
+box install cfboom-lang
+````
 
 # METHODS
 Any object that inherits `cfboom.lang.Object` will have these methods for your enjoyment:
