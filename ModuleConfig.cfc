@@ -10,7 +10,7 @@ component
   this.author = "Joel Tobey";
   this.webURL = "https://github.com/cfboom/cfboom-lang";
   this.description = "Base ColdBox Module for CF Boom";
-  this.version = "2.0.0";
+  this.version = "2.0.1";
 
   // If true, looks for views in the parent first, if not found, then in the module. Else vice-versa
   this.viewParentLookup = true;
