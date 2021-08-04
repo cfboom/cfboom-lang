@@ -1,0 +1,37 @@
+{
+  "name":"CF Boom Lang",
+  "version":"2.0.0",
+  "location":"https://github.com/cfboom/cfboom-lang/releases/download/v2.0.0/cfboom-lang-v2.0.0.zip",
+  "author":"Joel Tobey",
+  "homepage":"https://github.com/cfboom/cfboom-lang",
+  "documentation":"https://github.com/cfboom/cfboom-lang",
+  "repository":{
+    "type":"git",
+    "url":"https://github.com/cfboom/cfboom-lang"
+  },
+  "bugs":"https://github.com/cfboom/cfboom-lang",
+  "shortDescription":"Every object needs some basic goodies.",
+  "slug":"cfboom-lang",
+  "directory":"modules/cfboom/modules",
+  "packageDirectory":"cfboom-lang",
+  "type":"modules",
+  "keywords":"",
+  "license":[
+    {
+      "type":"Apache2",
+      "url":"http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "contributors":[],
+  "dependencies":{},
+  "devDependencies":{
+    "commandbox-cfformat":"*",
+    "commandbox-docbox":"*"
+  },
+  "ignore":[
+    "**/.*",
+    "test-harness"
+  ],
+  "scripts":{},
+  "testbox":{}
+}
